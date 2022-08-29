@@ -1,2 +1,2 @@
-# insurance_charge_prediction
-This repo is related to insurance charge prediction via ML models
+# Medikal-Maliyet-Analizi
+Global AI Hub - AI Summer Camp 22' kapsamında BootCamp'e katılan arkadaşlarım ile yaptığım bitirme projelerinin birincisi
